@@ -12,3 +12,4 @@ layout: default
 - NAME: Churilin Fedor
 - email fchurilin@gmail.com
 - my page: https://github.com/ter214/laba_test
+-67
